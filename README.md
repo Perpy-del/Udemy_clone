@@ -15,6 +15,6 @@ https://github.com/Perpy-del/Udemy_clone.git
 ```
 
 # Live Demo
-### Here is the link to the live page: 
+### Here is the link to the live page: [Udemy clone](https://stutern-udemy-clone.netlify.app)
 
 Really challenging but worth it!
